@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\Ass1_que2\bin\Debug\Ass1_que2.exe.config
+C:\Users\DELL\Source\Repos\Ass1_que2\bin\Debug\Ass1_que2.exe
+C:\Users\DELL\Source\Repos\Ass1_que2\bin\Debug\Ass1_que2.pdb
+C:\Users\DELL\Source\Repos\Ass1_que2\obj\Debug\Ass1_que2.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Ass1_que2\obj\Debug\Ass1_que2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Ass1_que2\obj\Debug\Ass1_que2.exe
+C:\Users\DELL\Source\Repos\Ass1_que2\obj\Debug\Ass1_que2.pdb
+C:\Users\DELL\Source\Repos\Ass1_que2\obj\Debug\Ass1_que2.exe.config
