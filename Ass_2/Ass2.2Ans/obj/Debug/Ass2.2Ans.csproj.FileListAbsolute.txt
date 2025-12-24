@@ -1,0 +1,7 @@
+C:\Users\DELL\Source\Repos\Ass2.2Ans\bin\Debug\Ass2.2Ans.exe.config
+C:\Users\DELL\Source\Repos\Ass2.2Ans\bin\Debug\Ass2.2Ans.exe
+C:\Users\DELL\Source\Repos\Ass2.2Ans\bin\Debug\Ass2.2Ans.pdb
+C:\Users\DELL\Source\Repos\Ass2.2Ans\obj\Debug\Ass2.2Ans.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Ass2.2Ans\obj\Debug\Ass2.2Ans.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Ass2.2Ans\obj\Debug\Ass2.2Ans.exe
+C:\Users\DELL\Source\Repos\Ass2.2Ans\obj\Debug\Ass2.2Ans.pdb
